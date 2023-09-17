@@ -4,7 +4,7 @@ Descending from the sky,
 These gracious words he spoke:
 Lo! in Cumorah’s lonely hill
 A sacred record lies concealed.
-Lo! in Cumorah’s lonely hill
+- Lo! in Cumorah’s lonely hill
 A sacred record lies concealed. ###
 Sealed by Moroni’s hand,
 It has for ages lain
@@ -12,7 +12,7 @@ To wait the Lord’s command,
 From dust to speak again.
 It shall again to light come forth
 To usher in Christ’s reign on earth.
-It shall again to light come forth
+- It shall again to light come forth
 To usher in Christ’s reign on earth. ###
 It speaks of Joseph’s seed
 And makes the remnant known
@@ -20,7 +20,7 @@ Of nations long since dead,
 Who once had dwelt alone.
 The fulness of the gospel, too,
 Its pages will reveal to view.
-The fulness of the gospel, too,
+- The fulness of the gospel, too,
 Its pages will reveal to view. ###
 The time is now fulfilled,
 The long-expected day;
@@ -28,7 +28,7 @@ Let earth obedience yield
 And darkness flee away.
 Remove the seals; be wide unfurled
 Its light and glory to the world.
-Remove the seals; be wide unfurled
+- Remove the seals; be wide unfurled
 Its light and glory to the world. ###
 Lo! Israel filled with joy
 Shall now be gathered home,
@@ -36,5 +36,5 @@ Their wealth and means employ
 To build Jerusalem,
 While Zion shall arise and shine
 And fill the earth with truth divine.
-While Zion shall arise and shine
+- While Zion shall arise and shine
 And fill the earth with truth divine. ###
